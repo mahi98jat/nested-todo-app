@@ -1,5 +1,4 @@
 import React, { useContext, useEffect, useState } from "react";
-import jwt from "jsonwebtoken";
 import UserProfile from "./UserProfile";
 import { AuthContext } from "./AuthContext";
 import { useNavigate } from "react-router-dom";

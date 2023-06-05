@@ -1,0 +1,11 @@
+.input {
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #999;
+  color: #333;
+  font-weight: 500;
+}
+
+input:focus {
+  border-bottom: 1px solid blue;
+}
